@@ -1,0 +1,8 @@
+README.txt
+many2.py
+setup.py
+many2.egg-info/PKG-INFO
+many2.egg-info/SOURCES.txt
+many2.egg-info/dependency_links.txt
+many2.egg-info/top_level.txt
+test/test_1.py
